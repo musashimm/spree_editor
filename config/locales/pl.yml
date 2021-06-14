@@ -1,0 +1,9 @@
+---
+pl:
+  spree:
+    enable_rich_editor: Rich Editor - Włącz
+    rich_editor: Rich Editor
+    rich_editor_description: Rich Editor - Konfiguracja ustawień
+    rich_editor_engine: Rich Editor - Silnik
+    rich_editor_ids: Rich Editor - Identifikatory
+    rich_editor_ids_description: "Wylistuj identyfikatory tagu textarea rozdzielając spacją"

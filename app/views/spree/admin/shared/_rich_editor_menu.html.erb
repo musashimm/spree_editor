@@ -1,0 +1,5 @@
+<% active = controller.controller_name == 'editor_settings' ? 'active' : '' %>
+
+<li class="sidebar-menu-item d-block w-100 <%= active %>">
+  <%= link_to Spree.t(:rich_editor), spree.edit_admin_editor_settings_path, class: 'sidebar-submenu-item w-100 py-2 py-md-1 pl-3 d-block' %>
+</li>
